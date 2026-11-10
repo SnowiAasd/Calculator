@@ -1,0 +1,32 @@
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.Form1.resources
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.csproj.GenerateResource.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.AssemblyInfoInputs.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.AssemblyInfo.cs
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\bin\Debug\net10.0-windows\ContactBook.exe
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\bin\Debug\net10.0-windows\ContactBook.deps.json
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\bin\Debug\net10.0-windows\ContactBook.runtimeconfig.json
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\bin\Debug\net10.0-windows\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\bin\Debug\net10.0-windows\ContactBook.pdb
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\refint\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.pdb
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ContactBook.genruntimeconfig.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook\obj\Debug\net10.0-windows\ref\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.Form1.resources
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.csproj.GenerateResource.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.AssemblyInfoInputs.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.AssemblyInfo.cs
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\refint\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.pdb
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\bin\Debug\net10.0-windows\ContactBook.exe
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\bin\Debug\net10.0-windows\ContactBook.deps.json
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\bin\Debug\net10.0-windows\ContactBook.runtimeconfig.json
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\bin\Debug\net10.0-windows\ContactBook.dll
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\bin\Debug\net10.0-windows\ContactBook.pdb
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ContactBook.genruntimeconfig.cache
+C:\Users\konstant\Desktop\Новая папка (3)\ContactBook (1)\ContactBook\obj\Debug\net10.0-windows\ref\ContactBook.dll

@@ -1,0 +1,57 @@
+﻿namespace ContactBook
+{
+	public partial class Form1 : Form
+	{
+		// создаём приватный список (коллекция экземпляров одного класса)
+		// для хранения объектов Contact - он будет доступен только внутри
+		// формы и изначально пуст
+		private List<Contact> contacts = new List<Contact>();
+
+		public Form1()
+		{
+			InitializeComponent();
+		}
+
+		private void Form1_Load(object sender, EventArgs e)
+		{
+			lstContacts.Items.Clear();
+			foreach (var c in contacts)
+				lstContacts.Items.Add(c);
+		}
+
+		private void btnAdd_Click(object sender, EventArgs e)
+		{
+		 // обновляем ListBox контактов
+		 // отображаем список добавленных контактов
+			private void UpdateContactList()
+			{
+			lstContacts.Items.Clear();
+			foreach (var c in contacts)
+				lstContacts.Items.Add(c);
+			}
+		// очищаем заполненные поля, ставим первую категорию контактов
+		private void ClearInputFields()
+			{
+			txtName.Clear();
+			txtPhone.Clear();
+			cmbCategory.SelectedIndex = 0;
+			}
+		// добавляем контакты в список контактов
+		private void btnAdd_Click(object sender, EventArgs e)
+		{
+			if (string.IsNullOrWhiteSpace(txtName.Text)
+		  || string.IsNullOrWhiteSpace(txtPhone.Text))
+		  {
+				MessageBox.Show("Заполните имя и телефон!", "Ошибка"
+MessageBoxButtons.OK, MessageBoxIcon.Warning);
+				return;
+			}
+			Contact newContact = new Contact
+				(txtName.Text, txtPhone.Text, cmbCategory.SelectedItem.ToString());
+			contacts.Add(newContact);
+			UpdateContactList();
+			ClearInputFields();
+			}
+		}	
+	}
+}
